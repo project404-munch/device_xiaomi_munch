@@ -13,6 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+<<<<<<< HEAD:overlay/MunchFrameworksOverlay/AndroidManifest.xml
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="android.munch">
 
@@ -21,3 +22,12 @@
         android:priority="850"
         android:targetPackage="android" />
 </manifest>
+=======
+<resources>
+    <!-- Whether to show Smooth Display feature in Settings Options -->
+    <bool name="config_show_smooth_display">true</bool>
+
+    <!-- Whether to show min/max refresh rate in display settings -->
+    <bool name="config_show_refresh_rate_controls">true</bool>
+</resources>
+>>>>>>> 841021b (star: overlay: Show min/max refreshrate):overlay/SettingsResStar/res/values/config.xml
