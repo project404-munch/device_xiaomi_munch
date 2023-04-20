@@ -26,4 +26,4 @@ It is also known as POCO F4 (globally) and Redmi K40S (China).
 
 ![POCO F4](https://i.imgur.com/8vGvhMe.jpeg)
 
-Copyright (C) 2022 Paranoid Android.
+Copyright (C) 2023 Project 404
